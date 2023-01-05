@@ -1,0 +1,41 @@
+grid-size
+7 7
+zack-start
+3 6
+level-objects
+1-w-blk-0-0-60-60  | 2-f-cob-1-0  | 3-w-blk-2-0-60-60  | 4-w-blk-3-0-60-60  | 5-w-blk-4-0-60-60 | 6-w-blk-5-0-60-60 | 6-w-blk-6-0-60-60 |
+7-f-cob-0-1  | 8-f-cob-1-1  | 9-f-cob-2-1  | 10-f-cob-3-1  | 11-f-cob-4-1 | 12-f-cob-5-1 | 12-f-cob-6-1 |
+13-f-cob-0-2  | 14-f-cob-1-2  | 15-f-cob-2-2  | 16-f-cob-3-2  | 17-f-cob-4-2 | 18-f-cob-5-2 | 18-f-cob-6-2 |
+19-f-cob-0-3  | 20-f-cob-1-3  | 21-f-cob-2-3  | 22-f-cob-3-3  | 23-f-cob-4-3 | 24-f-cob-5-3 | 24-f-cob-6-3 |
+25-f-cob-0-4  | 26-f-cob-1-4  | 27-f-cob-2-4  | 28-f-cob-3-4  | 29-f-cob-4-4 | 30-f-cob-5-4 | 30-f-cob-6-4 |
+31-f-cob-0-5  | 32-f-cob-1-5  | 33-f-cob-2-5  | 34-f-cob-3-5  | 35-f-cob-4-5 | 36-f-cob-5-5 | 36-f-cob-6-5 |
+37-f-cob-0-6  | 38-f-cob-1-6  | 39-f-cob-2-6  | 40-f-cob-3-6  | 41-f-cob-4-6 | 42-f-cob-5-6 | 42-f-cob-6-6 |
+1-scD-blk-5-1.5 |
+1-dL-cob-0-1-4 |
+1-dU-cob-1-0-9 |
+1-dD-grey-3-6-2 |
+2-w-dgry-0-2.75-180-15 |
+2-w-dgry-4-2.75-180-15 |
+2-w-dgry-0-4-180-15 |
+2-w-dgry-4-4-180-15 |
+2-w-dgry-0-5.25-180-15 |
+2-w-dgry-4-5.25-180-15 |
+2-w-dgry-2.75-2.5-15-20 |
+2-w-dgry-2.75-1-15-30 |
+2-w-dgry-4-2.5-15-20 |
+2-w-dgry-4-1-15-30 |
+2-w-dgry-3-1-60-15 |
+2-bCT-ylw-0-3 |
+2-bCT-blu-4.5-3 |
+2-bCT-pur-6-3 |
+2-bCT-pur-0-4.25 |
+2-bCT-grn-1.5-4.25 |
+2-bCT-ylw-6-4.25 |
+2-skV-blu-2.75-1.5-N |
+2-skV-grn-4-1.5-N |
+2-skH-pur-3-2.75-N |
+2-skH-ylw-3-3-N |
+2-vSL-dgry-2.75-3-6 |
+2-vSL-dgry-2.75-4.25-1 |
+2-vSL-dgry-4-3-16 |
+2-vSL-dgry-4-4.25-11 |

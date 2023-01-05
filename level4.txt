@@ -1,0 +1,28 @@
+grid-size
+6 6
+zack-start
+5 0
+level-objects
+1-f-flr-0-0  | 2-f-flr-1-0  | 3-f-flr-2-0 | 4-f-flr-3-0  | 5-f-flr-4-0 | 6-f-flr-5-0 |
+7-f-flr-0-1  | 8-f-flr-1-1  | 9-f-flr-2-1  | 10-f-flr-3-1  | 11-f-flr-4-1 | 12-f-flr-5-1 |
+13-f-flr-0-2  | 14-f-flr-1-2  | 15-f-flr-2-2  | 16-f-flr-3-2  | 17-f-flr-4-2 | 18-f-flr-5-2 |
+19-f-flr-0-3  | 20-f-flr-1-3  | 21-f-flr-2-3  | 22-f-flr-3-3  | 23-f-flr-4-3 | 24-f-flr-5-3 |
+25-f-flr-0-4  | 26-f-flr-1-4  | 27-f-flr-2-4  | 28-f-flr-3-4  | 29-f-flr-4-4 | 30-f-flr-5-4 |
+31-f-flr-0-5  | 32-f-flr-1-5  | 33-f-flr-2-5  | 34-f-flr-3-5  | 35-f-flr-4-5 | 36-f-flr-5-5 |
+1-dR-flr-5-0-3 |
+1-dL-flr-0-1-9 |
+1-dL-flr-0-4-9 |
+2-w-org-3-0-60-60 |
+2-w-org-3-1-60-60 |
+2-w-org-3-2-60-60 |
+2-w-org-3-4-60-60 |
+2-w-org-3-5-60-60 |
+2-w-org-3-3-60-60 |
+2-w-flr-2-2.85-60-15 |
+2-w-flr-0-2.85-60-15 |
+2-spL-dgry-4-4 |
+2-spR-dgry-2-1 |
+2-bS-org-5-2 |
+2-w-grn-6-1-15-15 |
+2-bCT-gry-1-4 |
+2-skH-gry-1-3.1-N |
