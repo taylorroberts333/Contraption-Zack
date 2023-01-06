@@ -23,10 +23,11 @@ Click [here](https://classicreload.com/contraption-zack.html) to see the origina
 
 ## Game Functionality
 Esc: Get game menu
+
 Arrow Keys-
-Up
-Down
-Right
-Left
+- Up
+- Down
+- Right
+- Left
 
 Start game or load previously saved in progress games. Able to save in progress game through game menu, quit game, restart level, or restart area.
