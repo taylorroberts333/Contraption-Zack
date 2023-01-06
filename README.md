@@ -1,6 +1,6 @@
 # Contraption-Zack
 ## Description
-Created the first four screens of the game 'Contraption Zack' in 2-D. Created by my classmate Joey Cambell and I. Includes fun animations and challenging puzzles.
+Created the first four screens of the game 'Contraption Zack' in 2-D. Created by my classmate Joey Campbell and I. Includes fun animations and challenging puzzles.
 
 ### Start game
 <img src="https://user-images.githubusercontent.com/83095073/210903771-bda15a60-6b1c-4d7d-9a0c-9a781566ce2b.jpg" width="200" height="200">
